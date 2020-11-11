@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/viktorina/static/css/main.f138960f.chunk.css",
-    "main.js": "/viktorina/static/js/main.20515f8d.chunk.js",
-    "main.js.map": "/viktorina/static/js/main.20515f8d.chunk.js.map",
-    "runtime-main.js": "/viktorina/static/js/runtime-main.1eaea5e4.js",
-    "runtime-main.js.map": "/viktorina/static/js/runtime-main.1eaea5e4.js.map",
-    "static/js/2.be059bb1.chunk.js": "/viktorina/static/js/2.be059bb1.chunk.js",
-    "static/js/2.be059bb1.chunk.js.map": "/viktorina/static/js/2.be059bb1.chunk.js.map",
-    "static/js/3.c128a682.chunk.js": "/viktorina/static/js/3.c128a682.chunk.js",
-    "static/js/3.c128a682.chunk.js.map": "/viktorina/static/js/3.c128a682.chunk.js.map",
+    "main.css": "/viktorina/static/css/main.4d0f4642.chunk.css",
+    "main.js": "/viktorina/static/js/main.ba6080cb.chunk.js",
+    "main.js.map": "/viktorina/static/js/main.ba6080cb.chunk.js.map",
+    "runtime-main.js": "/viktorina/static/js/runtime-main.8c0d6986.js",
+    "runtime-main.js.map": "/viktorina/static/js/runtime-main.8c0d6986.js.map",
+    "static/js/2.938a948f.chunk.js": "/viktorina/static/js/2.938a948f.chunk.js",
+    "static/js/2.938a948f.chunk.js.map": "/viktorina/static/js/2.938a948f.chunk.js.map",
+    "static/js/3.e8f5cde7.chunk.js": "/viktorina/static/js/3.e8f5cde7.chunk.js",
+    "static/js/3.e8f5cde7.chunk.js.map": "/viktorina/static/js/3.e8f5cde7.chunk.js.map",
     "index.html": "/viktorina/index.html",
-    "static/css/main.f138960f.chunk.css.map": "/viktorina/static/css/main.f138960f.chunk.css.map",
-    "static/js/2.be059bb1.chunk.js.LICENSE.txt": "/viktorina/static/js/2.be059bb1.chunk.js.LICENSE.txt",
+    "static/css/main.4d0f4642.chunk.css.map": "/viktorina/static/css/main.4d0f4642.chunk.css.map",
+    "static/js/2.938a948f.chunk.js.LICENSE.txt": "/viktorina/static/js/2.938a948f.chunk.js.LICENSE.txt",
     "static/media/mountain.283c5b9c.png": "/viktorina/static/media/mountain.283c5b9c.png",
     "static/media/okean.04df7147.png": "/viktorina/static/media/okean.04df7147.png",
     "static/media/polostrov.acfe4214.png": "/viktorina/static/media/polostrov.acfe4214.png",
@@ -20,9 +20,9 @@
     "static/media/zemlya.0c797c6f.png": "/viktorina/static/media/zemlya.0c797c6f.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.1eaea5e4.js",
-    "static/js/2.be059bb1.chunk.js",
-    "static/css/main.f138960f.chunk.css",
-    "static/js/main.20515f8d.chunk.js"
+    "static/js/runtime-main.8c0d6986.js",
+    "static/js/2.938a948f.chunk.js",
+    "static/css/main.4d0f4642.chunk.css",
+    "static/js/main.ba6080cb.chunk.js"
   ]
 }
